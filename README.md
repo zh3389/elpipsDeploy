@@ -17,7 +17,7 @@ chmod +x gpuDeploy.sh
 ./cpuDeploy.sh  或者  ./gpuDeploy.sh
 ```
 
-#### 如果进行两张图像相似度比较
+#### 如何进行两张图像相似度比较
 
 ```python
 import imageio
